@@ -15,7 +15,6 @@
     <name>autoDeploy</name>
     <description>Demo project for Spring Boot</description>
     <modules>
-        <module>auto-service</module>
         <module>auto-start</module>
     </modules>
     <properties>
